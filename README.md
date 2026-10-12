@@ -53,7 +53,7 @@ I'm continuously improving my programming, analytical thinking, and problem-solv
 
 <p>
 <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Data-Processing-4B8BBE?style=for-the-badge" alt="Data Processing"/>
+<img src="https://img.shields.io/badge/Data-Processing-4B8BBE?style=for-the-badge" alt="Data-Processing"/>
 </p>
 
 **Computer Science Fundamentals**
