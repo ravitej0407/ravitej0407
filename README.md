@@ -53,10 +53,7 @@ I'm continuously improving my programming, analytical thinking, and problem-solv
 
 <p>
 <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/TF--IDF-4B8BBE?style=for-the-badge" alt="TF-IDF"/>
-<img src="https://img.shields.io/badge/Naive_Bayes-2E8B57?style=for-the-badge" alt="Naive Bayes"/>
-<img src="https://img.shields.io/badge/Logistic_Regression-6A5ACD?style=for-the-badge" alt="Logistic Regression"/>
-<img src="https://img.shields.io/badge/SVM-FF8C00?style=for-the-badge" alt="SVM"/>
+<img src="https://img.shields.io/badge/TF--IDF-4B8BBE?style=for-the-badge" alt="Data Processing"/>
 </p>
 
 **Computer Science Fundamentals**
@@ -100,15 +97,6 @@ A frontend grocery shopping website focused on product categories, product cards
 - Product listings and price displays.
 - Frontend layout and styling.
 
-### 🪑 AR Furniture Preview System
-
-An augmented reality project for previewing virtual furniture in a real-world environment using a mobile device.
-
-**Tech Stack:** Unity, C#, AR Foundation, ARCore
-
-- Marker-based AR experience.
-- Virtual furniture placement.
-- Mobile augmented reality exploration.
 
 ### 🍽️ Restaurant Website Clone
 
